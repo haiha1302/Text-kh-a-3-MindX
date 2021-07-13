@@ -1,0 +1,89 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1d2034;
+}
+
+h2 {
+    display: flex;
+    color: #FFFFFF;
+    margin: 130px 0px 0px 480px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.bigTitle {
+    margin: 0px 10px 0px 10px;
+    background-image: linear-gradient(to right, #FF6600, #FF9933);
+    border-radius: 4px;
+    padding: 0px 5px 0px 5px;
+}
+
+main {
+    background-color: #FFFFFF;
+    width: 600px;
+    height: 250px;
+    margin: 20px 0px 0px 480px;
+    border-radius: 15px;
+}
+
+.title {
+    padding: 20px 0px 0px 20px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.inputLink {
+    padding: 20px 0px 0px 20px;
+    font-weight: bolder;
+}
+
+.formInput {
+    height: 30px;
+    border: 2px solid black;
+    border-radius: 4px;
+    width: 222px;
+    border: none;
+    background-color: #DDDDDD;
+    padding: 5px;
+}
+
+.btnLink {
+    height: 30px;
+    width: 35px;
+    background-color: #1d2034;
+    border-radius: 4px;
+}
+
+.btn {
+    display: flex;
+    margin: 10px 0px 0px 20px;
+}
+
+.titleBtn {
+    padding-top: 5px;
+    font-weight: bolder;
+}
+
+.btnShort {
+    height: 25px;
+    margin-right: 5px;
+    padding: 0px 5px 0px 5px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 4px;
+}
+
+.btnShort:hover {
+    background-color: #1d2034;
+    color: #FFFFFF;
+}
+
+.content {
+    margin: 20px 20px 0px 20px;
+    font-size: 15px;
+}
